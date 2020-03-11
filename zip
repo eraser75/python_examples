@@ -8,3 +8,11 @@ print()
     
 for n, v in zip(name,value):
     print('zip: ', n,v)
+
+
+results:
+a b
+1 2
+
+zip:  a 1
+zip:  b 2
