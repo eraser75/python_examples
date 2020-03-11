@@ -2,8 +2,8 @@
 class car:
     # car_type  = ''
     # car_origin = ''
-    # car_name = ''
-    
+    # car_name = '' 
+    # test
     def __init__(self, c_type, c_origin, c_name):
         self.car_type = c_type
         self.car_origin = c_origin
